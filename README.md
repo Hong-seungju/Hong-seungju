@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hong-seungju
 - 👀 I’m interested in ios
-- 🌱 I’m currently learning mobius-Iotplatform
+- 🌱 I’m currently learning handlebars
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
